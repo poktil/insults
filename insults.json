@@ -56,6 +56,13 @@
     "level": 1
   },
   {
+    "id": 72,
+    "insult": "bitch",
+    "pattern": "^bit?ch?$",
+    "type": "tahqir",
+    "level": 2
+  },
+  {
     "id": 3,
     "insult": "blin",
     "pattern": "^bl[aeiy]a?[nt]?$",
@@ -80,6 +87,13 @@
     "id": 67,
     "insult": "churka",
     "pattern": "^ch?urka$",
+    "type": "haqorat",
+    "level": 2
+  },
+  {
+    "id": 70,
+    "insult": "chushpan",
+    "pattern": "^ch?u(sh|w)pan$",
     "type": "haqorat",
     "level": 2
   },
@@ -128,7 +142,7 @@
   {
     "id": 25,
     "insult": "ekspurush",
-    "pattern": "^[ei]kspu?r[iu]?sh$",
+    "pattern": "^[ei]?kspu?r[iu]?(sh|w)$",
     "type": "kamsituvchi",
     "level": 2
   },
@@ -152,6 +166,13 @@
     "pattern": "^[hx]ezal[ae][ky]?$",
     "type": "haqorat",
     "level": 1
+  },
+  {
+    "id": 69,
+    "insult": "idinaxuy",
+    "pattern": "^i?dinn?a[hx]uy$",
+    "type": "tahdid",
+    "level": 2
   },
   {
     "id": 34,
@@ -372,7 +393,7 @@
   },
   {
     "id": 64,
-    "insult": "word siksn",
+    "insult": "word siksin",
     "pattern": "^(\\w+)\\s+(si?ksi?n)$",
     "type": "tahqir",
     "level": 3
@@ -439,6 +460,13 @@
     "pattern": "^yi?ban?$",
     "type": "haqorat",
     "level": 2
+  },
+  {
+    "id": 71,
+    "insult": "yobir",
+    "pattern": "^yobi?r$",
+    "type": "haqorat",
+    "level": 1
   },
   {
     "id": 58,

@@ -114,7 +114,7 @@
   {
     "id": 12,
     "insult": "dalbayop",
-    "pattern": "^dalba(yo|e)[bp]$",
+    "pattern": "^da?lba?(yo|e)[bp]$",
     "type": "haqorat",
     "level": 2
   },
@@ -175,6 +175,13 @@
     "level": 2
   },
   {
+    "id": 75,
+    "insult": "iflos",
+    "pattern": "^i[fp]los$",
+    "type": "tahqir",
+    "level": 1
+  },
+  {
     "id": 34,
     "insult": "isqirt",
     "pattern": "^is[kq]i?rt$",
@@ -203,6 +210,13 @@
     "level": 1
   },
   {
+    "id": 76,
+    "insult": "jungbosh",
+    "pattern": "^jung? ?bo(sh|w)$",
+    "type": "kamsituvchi",
+    "level": 1
+  },
+  {
     "id": 66,
     "insult": "kalta fahim",
     "pattern": "^kalta ?fa[hx]i?m$",
@@ -214,6 +228,13 @@
     "insult": "kot",
     "pattern": "^kot$",
     "type": "jinsiy",
+    "level": 1
+  },
+  {
+    "id": 77,
+    "insult": "kunta",
+    "pattern": "^kunta$",
+    "type": "haqorat",
     "level": 1
   },
   {
@@ -231,10 +252,24 @@
     "level": 1
   },
   {
+    "id": 73,
+    "insult": "mahmadona",
+    "pattern": "^ma[hx]?mad[ao]na$",
+    "type": "tahqir",
+    "level": 1
+  },
+  {
     "id": 65,
     "insult": "manqurt",
     "pattern": "^manqurt$",
     "type": "haqorat",
+    "level": 1
+  },
+  {
+    "id": 74,
+    "insult": "maraz",
+    "pattern": "^mara[sz]$",
+    "type": "tahqir",
     "level": 1
   },
   {
@@ -282,7 +317,14 @@
   {
     "id": 57,
     "insult": "pizdets",
-    "pattern": "^pi?zde?ts$",
+    "pattern": "^p[ei]?zde?t?s$",
+    "type": "jinsiy",
+    "level": 2
+  },
+  {
+    "id": 78,
+    "insult": "pizdyuk",
+    "pattern": "^pi?[sz]dy?uk$",
     "type": "jinsiy",
     "level": 2
   },
@@ -303,7 +345,7 @@
   {
     "id": 7,
     "insult": "qotoq",
-    "pattern": "^q[ou]toq?$",
+    "pattern": "^q[ou]t[ao]q?$",
     "type": "jinsiy",
     "level": 2
   },
@@ -320,6 +362,13 @@
     "pattern": "^siyg[ao][qy]?$",
     "type": "haqorat",
     "level": 1
+  },
+  {
+    "id": 79,
+    "insult": "ske",
+    "pattern": "^si?k[ei]y?$",
+    "type": "tahdid",
+    "level": 2
   },
   {
     "id": 51,
@@ -401,9 +450,9 @@
   {
     "id": 63,
     "insult": "word ske",
-    "pattern": "^(\\w+)\\s+(sk[ei])$",
+    "pattern": "^(\\w+)\\s+(si?k[ei]y?)$",
     "type": "kamsituvchi",
-    "level": 2
+    "level": 3
   },
   {
     "id": 61,
@@ -411,6 +460,13 @@
     "pattern": "^(\\w+)\\s+(tasho[gq]?i?)$",
     "type": "haqorat",
     "level": 3
+  },
+  {
+    "id": 80,
+    "insult": "wtf",
+    "pattern": "^wtf$",
+    "type": "haqorat",
+    "level": 2
   },
   {
     "id": 24,
@@ -436,7 +492,7 @@
   {
     "id": 42,
     "insult": "yalaqi",
-    "pattern": "^yalaqi$",
+    "pattern": "^yala[kq]i$",
     "type": "haqorat",
     "level": 1
   },
@@ -457,7 +513,7 @@
   {
     "id": 32,
     "insult": "yiban",
-    "pattern": "^yi?ban?$",
+    "pattern": "^y[ei]?ban?$",
     "type": "haqorat",
     "level": 2
   },

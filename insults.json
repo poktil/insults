@@ -56,6 +56,13 @@
     "level": 1
   },
   {
+    "id": 81,
+    "insult": "betomus",
+    "pattern": "^betomus$",
+    "type": "haqorat",
+    "level": 1
+  },
+  {
     "id": 72,
     "insult": "bitch",
     "pattern": "^bit?ch?$",
@@ -81,6 +88,13 @@
     "insult": "chort",
     "pattern": "^ch?ort$",
     "type": "haqorat",
+    "level": 1
+  },
+  {
+    "id": 82,
+    "insult": "chumo",
+    "pattern": "^ch?u?mo$",
+    "type": "tahqir",
     "level": 1
   },
   {
@@ -387,7 +401,7 @@
   {
     "id": 28,
     "insult": "tashoq",
-    "pattern": "^tasho[gq]?$",
+    "pattern": "^tash[ao][gq]?$",
     "type": "jinsiy",
     "level": 1
   },
@@ -436,7 +450,7 @@
   {
     "id": 62,
     "insult": "word qotogim",
-    "pattern": "^(\\w+)\\s+(q[ou]to[gq]?im?)$",
+    "pattern": "^(\\w+)\\s+(q[ou]to[gq]?i?m?)$",
     "type": "haqorat",
     "level": 3
   },
@@ -487,6 +501,13 @@
     "insult": "xunasa",
     "pattern": "^[hx]unasa$",
     "type": "kamsituvchi",
+    "level": 2
+  },
+  {
+    "id": 83,
+    "insult": "xuyna",
+    "pattern": "^[hx]uy(na)?$",
+    "type": "jinsiy",
     "level": 2
   },
   {

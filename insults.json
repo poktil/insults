@@ -2,7 +2,7 @@
   {
     "id": 6,
     "insult": "ablah",
-    "pattern": "\\\\babla[hx]t?",
+    "pattern": "\\babla[hx]t?",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "insult": "ahmoq",
-    "pattern": "\\\\ba[hx]m[ao][kq]",
+    "pattern": "\\ba[hx]m[ao][kq]",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -18,7 +18,7 @@
   {
     "id": 4,
     "insult": "am",
-    "pattern": "\\\\bam",
+    "pattern": "\\bam",
     "type": "jinsiy",
     "level": 1,
     "lang": "uz"
@@ -26,7 +26,7 @@
   {
     "id": 53,
     "insult": "ammi word",
-    "pattern": "\\\\b(am[mn]i)\\s+(\\w+)",
+    "pattern": "\\b(am[mn]i)\\s+(\\w+)",
     "type": "kamsituvchi",
     "level": 3,
     "lang": "uz"
@@ -34,7 +34,7 @@
   {
     "id": 9,
     "insult": "anqov",
-    "pattern": "\\\\banqov",
+    "pattern": "\\banqov",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -42,7 +42,7 @@
   {
     "id": 43,
     "insult": "balabol",
-    "pattern": "\\\\bbalabol",
+    "pattern": "\\bbalabol",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -50,7 +50,7 @@
   {
     "id": 22,
     "insult": "baltun",
-    "pattern": "\\\\bbaltun",
+    "pattern": "\\bbaltun",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -58,7 +58,7 @@
   {
     "id": 44,
     "insult": "besonaqay",
-    "pattern": "\\\\bbesona[kq]ay",
+    "pattern": "\\bbesona[kq]ay",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -66,7 +66,7 @@
   {
     "id": 81,
     "insult": "betomus",
-    "pattern": "\\\\bbetomus",
+    "pattern": "\\bbetomus",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -74,7 +74,7 @@
   {
     "id": 72,
     "insult": "bitch",
-    "pattern": "\\\\bbit?ch?",
+    "pattern": "\\bbit?ch?",
     "type": "tahqir",
     "level": 2,
     "lang": "uz"
@@ -82,7 +82,7 @@
   {
     "id": 3,
     "insult": "blin",
-    "pattern": "\\\\bbl[aeiy]a?[nt]?",
+    "pattern": "\\bbl[aeiy]a?[nt]?",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -90,7 +90,7 @@
   {
     "id": 10,
     "insult": "chichqo",
-    "pattern": "\\\\bch?ich?i?qoq?",
+    "pattern": "\\bch?ich?i?qoq?",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -98,7 +98,7 @@
   {
     "id": 15,
     "insult": "chort",
-    "pattern": "\\\\bch?ort",
+    "pattern": "\\bch?ort",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -106,7 +106,7 @@
   {
     "id": 82,
     "insult": "chumo",
-    "pattern": "\\\\bch?u?mo",
+    "pattern": "\\bch?u?mo",
     "type": "tahqir",
     "level": 1,
     "lang": "uz"
@@ -114,7 +114,7 @@
   {
     "id": 67,
     "insult": "churka",
-    "pattern": "\\\\bch?urka",
+    "pattern": "\\bch?urka",
     "type": "haqorat",
     "level": 2,
     "lang": "uz"
@@ -122,7 +122,7 @@
   {
     "id": 70,
     "insult": "chushpan",
-    "pattern": "\\\\bch?u(sh|w)pan",
+    "pattern": "\\bch?u(sh|w)pan",
     "type": "haqorat",
     "level": 2,
     "lang": "uz"
@@ -130,7 +130,7 @@
   {
     "id": 14,
     "insult": "dabba",
-    "pattern": "\\\\bda(bb|pp)a",
+    "pattern": "\\bda(bb|pp)a",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -138,7 +138,7 @@
   {
     "id": 13,
     "insult": "dalban",
-    "pattern": "\\\\bdalban",
+    "pattern": "\\bdalban",
     "type": "haqorat",
     "level": 2,
     "lang": "uz"
@@ -146,7 +146,7 @@
   {
     "id": 12,
     "insult": "dalbayop",
-    "pattern": "\\\\bda?lba?(yo|e)[bp]",
+    "pattern": "\\bda?lba?(yo|e)[bp]",
     "type": "haqorat",
     "level": 2,
     "lang": "uz"
@@ -154,7 +154,7 @@
   {
     "id": 54,
     "insult": "dalton",
-    "pattern": "\\\\bdalton",
+    "pattern": "\\bdalton",
     "type": "tahqir",
     "level": 1,
     "lang": "uz"
@@ -162,7 +162,7 @@
   {
     "id": 23,
     "insult": "daun",
-    "pattern": "\\\\bdaun",
+    "pattern": "\\bdaun",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -170,7 +170,7 @@
   {
     "id": 16,
     "insult": "dovdir",
-    "pattern": "\\\\bdov?dir",
+    "pattern": "\\bdov?dir",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -178,7 +178,7 @@
   {
     "id": 25,
     "insult": "ekspurush",
-    "pattern": "\\\\b[ei]?kspu?r[iu]?(sh|w)",
+    "pattern": "\\b[ei]?kspu?r[iu]?(sh|w)",
     "type": "kamsituvchi",
     "level": 2,
     "lang": "uz"
@@ -186,7 +186,7 @@
   {
     "id": 59,
     "insult": "fuck word",
-    "pattern": "\\\\b(fuck)\\s+(\\w+)",
+    "pattern": "\\b(fuck)\\s+(\\w+)",
     "type": "tahqir",
     "level": 3,
     "lang": "uz"
@@ -194,7 +194,7 @@
   {
     "id": 17,
     "insult": "gandon",
-    "pattern": "\\\\bgandon(cha|ca)?",
+    "pattern": "\\bgandon(cha|ca)?",
     "type": "jinsiy",
     "level": 2,
     "lang": "uz"
@@ -202,7 +202,7 @@
   {
     "id": 35,
     "insult": "hezalak",
-    "pattern": "\\\\b[hx]ezal[ae][ky]?",
+    "pattern": "\\b[hx]ezal[ae][ky]?",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -210,7 +210,7 @@
   {
     "id": 69,
     "insult": "idinaxuy",
-    "pattern": "\\\\bi?dinn?a[hx]uy",
+    "pattern": "\\bi?dinn?a[hx]uy",
     "type": "tahdid",
     "level": 2,
     "lang": "uz"
@@ -218,7 +218,7 @@
   {
     "id": 75,
     "insult": "iflos",
-    "pattern": "\\\\bi[fp]los",
+    "pattern": "\\bi[fp]los",
     "type": "tahqir",
     "level": 1,
     "lang": "uz"
@@ -226,7 +226,7 @@
   {
     "id": 34,
     "insult": "isqirt",
-    "pattern": "\\\\bis[kq]i?rt",
+    "pattern": "\\bis[kq]i?rt",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -234,7 +234,7 @@
   {
     "id": 8,
     "insult": "jalap",
-    "pattern": "\\\\bjala[bp]?",
+    "pattern": "\\bjala[bp]?",
     "type": "kamsituvchi",
     "level": 2,
     "lang": "uz"
@@ -242,7 +242,7 @@
   {
     "id": 56,
     "insult": "jin ursin",
-    "pattern": "\\\\bjin ?urs[iu]n",
+    "pattern": "\\bjin ?urs[iu]n",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -250,7 +250,7 @@
   {
     "id": 30,
     "insult": "jinni",
-    "pattern": "\\\\bjinni",
+    "pattern": "\\bjinni",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -258,7 +258,7 @@
   {
     "id": 76,
     "insult": "jungbosh",
-    "pattern": "\\\\bjung? ?bo(sh|w)",
+    "pattern": "\\bjung? ?bo(sh|w)",
     "type": "kamsituvchi",
     "level": 1,
     "lang": "uz"
@@ -266,7 +266,7 @@
   {
     "id": 66,
     "insult": "kalta fahim",
-    "pattern": "\\\\bkalta ?fa[hx]i?m",
+    "pattern": "\\bkalta ?fa[hx]i?m",
     "type": "kamsituvchi",
     "level": 1,
     "lang": "uz"
@@ -274,7 +274,7 @@
   {
     "id": 36,
     "insult": "kot",
-    "pattern": "\\\\bkot",
+    "pattern": "\\bkot",
     "type": "jinsiy",
     "level": 1,
     "lang": "uz"
@@ -282,7 +282,7 @@
   {
     "id": 77,
     "insult": "kunta",
-    "pattern": "\\\\bkunta",
+    "pattern": "\\bkunta",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -290,7 +290,7 @@
   {
     "id": 37,
     "insult": "latta",
-    "pattern": "\\\\blatta",
+    "pattern": "\\blatta",
     "type": "kamsituvchi",
     "level": 1,
     "lang": "uz"
@@ -298,7 +298,7 @@
   {
     "id": 26,
     "insult": "lox",
-    "pattern": "\\\\blo[hx]",
+    "pattern": "\\blo[hx]",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -306,7 +306,7 @@
   {
     "id": 73,
     "insult": "mahmadona",
-    "pattern": "\\\\bma[hx]?mad[ao]na",
+    "pattern": "\\bma[hx]?mad[ao]na",
     "type": "tahqir",
     "level": 1,
     "lang": "uz"
@@ -314,7 +314,7 @@
   {
     "id": 65,
     "insult": "manqurt",
-    "pattern": "\\\\bmanqurt",
+    "pattern": "\\bmanqurt",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -322,7 +322,7 @@
   {
     "id": 74,
     "insult": "maraz",
-    "pattern": "\\\\bmara[sz]",
+    "pattern": "\\bmara[sz]",
     "type": "tahqir",
     "level": 1,
     "lang": "uz"
@@ -330,7 +330,7 @@
   {
     "id": 47,
     "insult": "momish",
-    "pattern": "\\\\bmomish",
+    "pattern": "\\bmomish",
     "type": "jinsiy",
     "level": 3,
     "lang": "uz"
@@ -338,7 +338,7 @@
   {
     "id": 68,
     "insult": "naxxuy",
-    "pattern": "\\\\bna[hx][hx]?u[iy]",
+    "pattern": "\\bna[hx][hx]?u[iy]",
     "type": "haqorat",
     "level": 2,
     "lang": "uz"
@@ -346,7 +346,7 @@
   {
     "id": 48,
     "insult": "osiroq",
-    "pattern": "\\\\bosiroq?",
+    "pattern": "\\bosiroq?",
     "type": "tahqir",
     "level": 1,
     "lang": "uz"
@@ -354,7 +354,7 @@
   {
     "id": 21,
     "insult": "ovsar",
-    "pattern": "\\\\bovsar",
+    "pattern": "\\bovsar",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -362,7 +362,7 @@
   {
     "id": 18,
     "insult": "pidaraz",
-    "pattern": "\\\\bpi[dt]ara[sz]",
+    "pattern": "\\bpi[dt]ara[sz]",
     "type": "haqorat",
     "level": 2,
     "lang": "uz"
@@ -370,7 +370,7 @@
   {
     "id": 19,
     "insult": "pidr",
-    "pattern": "\\\\bpidi?r",
+    "pattern": "\\bpidi?r",
     "type": "haqorat",
     "level": 2,
     "lang": "uz"
@@ -378,7 +378,7 @@
   {
     "id": 57,
     "insult": "pizdets",
-    "pattern": "\\\\bp[ei]?zde?t?s",
+    "pattern": "\\bp[ei]?zde?t?s",
     "type": "jinsiy",
     "level": 2,
     "lang": "uz"
@@ -386,7 +386,7 @@
   {
     "id": 78,
     "insult": "pizdyuk",
-    "pattern": "\\\\bpi?[sz]dy?uk",
+    "pattern": "\\bpi?[sz]dy?uk",
     "type": "jinsiy",
     "level": 2,
     "lang": "uz"
@@ -394,7 +394,7 @@
   {
     "id": 49,
     "insult": "popish",
-    "pattern": "\\\\bpopish",
+    "pattern": "\\bpopish",
     "type": "jinsiy",
     "level": 2,
     "lang": "uz"
@@ -402,7 +402,7 @@
   {
     "id": 31,
     "insult": "qanjiq",
-    "pattern": "\\\\b[kq]an(ch|j)i[kq]?",
+    "pattern": "\\b[kq]an(ch|j)i[kq]?",
     "type": "haqorat",
     "level": 2,
     "lang": "uz"
@@ -410,7 +410,7 @@
   {
     "id": 7,
     "insult": "qotoq",
-    "pattern": "\\\\bq[ou]t[ao]q?",
+    "pattern": "\\bq[ou]t[ao]q?",
     "type": "jinsiy",
     "level": 2,
     "lang": "uz"
@@ -418,7 +418,7 @@
   {
     "id": 50,
     "insult": "shallava",
-    "pattern": "\\\\bshallava",
+    "pattern": "\\bshallava",
     "type": "tahqir",
     "level": 2,
     "lang": "uz"
@@ -426,7 +426,7 @@
   {
     "id": 11,
     "insult": "siygoq",
-    "pattern": "\\\\bsiyg[ao][qy]?",
+    "pattern": "\\bsiyg[ao][qy]?",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -434,7 +434,7 @@
   {
     "id": 79,
     "insult": "ske",
-    "pattern": "\\\\bsi?k[ei]y?",
+    "pattern": "\\bsi?k[ei]y?",
     "type": "tahdid",
     "level": 2,
     "lang": "uz"
@@ -442,7 +442,7 @@
   {
     "id": 51,
     "insult": "soska",
-    "pattern": "\\\\bsoska",
+    "pattern": "\\bsoska",
     "type": "haqorat",
     "level": 2,
     "lang": "uz"
@@ -450,7 +450,7 @@
   {
     "id": 1,
     "insult": "suka",
-    "pattern": "\\\\bsuc?h?ka",
+    "pattern": "\\bsuc?h?ka",
     "type": "haqorat",
     "level": 2,
     "lang": "uz"
@@ -458,7 +458,7 @@
   {
     "id": 28,
     "insult": "tashoq",
-    "pattern": "\\\\btash[ao][gq]?",
+    "pattern": "\\btash[ao][gq]?",
     "type": "jinsiy",
     "level": 1,
     "lang": "uz"
@@ -466,7 +466,7 @@
   {
     "id": 20,
     "insult": "tentak",
-    "pattern": "\\\\btenta[ky]",
+    "pattern": "\\btenta[ky]",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -474,7 +474,7 @@
   {
     "id": 40,
     "insult": "tonka",
-    "pattern": "\\\\btonka",
+    "pattern": "\\btonka",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -482,7 +482,7 @@
   {
     "id": 29,
     "insult": "totaq",
-    "pattern": "\\\\btot[ao][gq]?",
+    "pattern": "\\btot[ao][gq]?",
     "type": "jinsiy",
     "level": 1,
     "lang": "uz"
@@ -490,7 +490,7 @@
   {
     "id": 41,
     "insult": "tvar",
-    "pattern": "\\\\btvar",
+    "pattern": "\\btvar",
     "type": "kamsituvchi",
     "level": 1,
     "lang": "uz"
@@ -498,7 +498,7 @@
   {
     "id": 52,
     "insult": "word ami",
-    "pattern": "\\\\b(\\w+)\\s+(ami)",
+    "pattern": "\\b(\\w+)\\s+(ami)",
     "type": "jinsiy",
     "level": 3,
     "lang": "uz"
@@ -506,7 +506,7 @@
   {
     "id": 60,
     "insult": "word fucker",
-    "pattern": "\\\\b(\\w+)\\s+(fucker)",
+    "pattern": "\\b(\\w+)\\s+(fucker)",
     "type": "tahqir",
     "level": 3,
     "lang": "uz"
@@ -514,7 +514,7 @@
   {
     "id": 62,
     "insult": "word qotogim",
-    "pattern": "\\\\b(\\w+)\\s+(q[ou]to[gq]?i?m?)",
+    "pattern": "\\b(\\w+)\\s+(q[ou]to[gq]?i?m?)",
     "type": "haqorat",
     "level": 3,
     "lang": "uz"
@@ -522,7 +522,7 @@
   {
     "id": 64,
     "insult": "word siksin",
-    "pattern": "\\\\b(\\w+)\\s+(si?ksi?n)",
+    "pattern": "\\b(\\w+)\\s+(si?ksi?n)",
     "type": "tahqir",
     "level": 3,
     "lang": "uz"
@@ -530,7 +530,7 @@
   {
     "id": 63,
     "insult": "word ske",
-    "pattern": "\\\\b(\\w+)\\s+(si?k[ei]y?)",
+    "pattern": "\\b(\\w+)\\s+(si?k[ei]y?)",
     "type": "kamsituvchi",
     "level": 3,
     "lang": "uz"
@@ -538,7 +538,7 @@
   {
     "id": 61,
     "insult": "word tashogi",
-    "pattern": "\\\\b(\\w+)\\s+(tasho[gq]?i?)",
+    "pattern": "\\b(\\w+)\\s+(tasho[gq]?i?)",
     "type": "haqorat",
     "level": 3,
     "lang": "uz"
@@ -546,7 +546,7 @@
   {
     "id": 80,
     "insult": "wtf",
-    "pattern": "\\\\bwtf",
+    "pattern": "\\bwtf",
     "type": "haqorat",
     "level": 2,
     "lang": "uz"
@@ -554,7 +554,7 @@
   {
     "id": 24,
     "insult": "xaromi",
-    "pattern": "\\\\b[hx]aromi",
+    "pattern": "\\b[hx]aromi",
     "type": "kamsituvchi",
     "level": 2,
     "lang": "uz"
@@ -562,7 +562,7 @@
   {
     "id": 55,
     "insult": "xaromzoda",
-    "pattern": "\\\\b[hx]aromzoda",
+    "pattern": "\\b[hx]aromzoda",
     "type": "kamsituvchi",
     "level": 2,
     "lang": "uz"
@@ -570,7 +570,7 @@
   {
     "id": 46,
     "insult": "xunasa",
-    "pattern": "\\\\b[hx]unasa",
+    "pattern": "\\b[hx]unasa",
     "type": "kamsituvchi",
     "level": 2,
     "lang": "uz"
@@ -578,7 +578,7 @@
   {
     "id": 83,
     "insult": "xuyna",
-    "pattern": "\\\\b[hx]uy(na)?",
+    "pattern": "\\b[hx]uy(na)?",
     "type": "jinsiy",
     "level": 2,
     "lang": "uz"
@@ -586,7 +586,7 @@
   {
     "id": 42,
     "insult": "yalaqi",
-    "pattern": "\\\\byala[kq]i",
+    "pattern": "\\byala[kq]i",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -594,7 +594,7 @@
   {
     "id": 33,
     "insult": "yaramas",
-    "pattern": "\\\\byaramas",
+    "pattern": "\\byaramas",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -602,7 +602,7 @@
   {
     "id": 45,
     "insult": "yeblan",
-    "pattern": "\\\\b[ey]?eblan",
+    "pattern": "\\b[ey]?eblan",
     "type": "haqorat",
     "level": 2,
     "lang": "uz"
@@ -610,7 +610,7 @@
   {
     "id": 32,
     "insult": "yiban",
-    "pattern": "\\\\by[ei]?ban?",
+    "pattern": "\\by[ei]?ban?",
     "type": "haqorat",
     "level": 2,
     "lang": "uz"
@@ -618,7 +618,7 @@
   {
     "id": 71,
     "insult": "yobir",
-    "pattern": "\\\\byobi?r",
+    "pattern": "\\byobi?r",
     "type": "haqorat",
     "level": 1,
     "lang": "uz"
@@ -626,7 +626,7 @@
   {
     "id": 58,
     "insult": "zaybal",
-    "pattern": "\\\\bza[ey]bal",
+    "pattern": "\\bza[ey]bal",
     "type": "bezovta_qilish",
     "level": 1,
     "lang": "uz"

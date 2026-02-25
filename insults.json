@@ -3,7 +3,7 @@
     "id": 6,
     "insult": "ablah",
     "pattern": "\\babla[hx]t?",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -11,15 +11,15 @@
     "id": 2,
     "insult": "ahmoq",
     "pattern": "\\ba[hx]m[ao][kq]",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
   {
     "id": 4,
     "insult": "am",
-    "pattern": "\\bam",
-    "type": "jinsiy",
+    "pattern": "\\bam\\b",
+    "type": "sexual",
     "level": 1,
     "lang": "uz"
   },
@@ -27,7 +27,7 @@
     "id": 53,
     "insult": "ammi word",
     "pattern": "\\b(am[mn]i)\\s+(\\w+)",
-    "type": "kamsituvchi",
+    "type": "slur",
     "level": 3,
     "lang": "uz"
   },
@@ -35,15 +35,23 @@
     "id": 9,
     "insult": "anqov",
     "pattern": "\\banqov",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
+  },
+  {
+    "id": 84,
+    "insult": "ass hole",
+    "pattern": "\\bass? ?hole",
+    "type": "sexual",
+    "level": 2,
+    "lang": "en"
   },
   {
     "id": 43,
     "insult": "balabol",
     "pattern": "\\bbalabol",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -51,15 +59,23 @@
     "id": 22,
     "insult": "baltun",
     "pattern": "\\bbaltun",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
+  },
+  {
+    "id": 89,
+    "insult": "bastard",
+    "pattern": "\\bbastard",
+    "type": "insult",
+    "level": 2,
+    "lang": "en"
   },
   {
     "id": 44,
     "insult": "besonaqay",
     "pattern": "\\bbesona[kq]ay",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -67,7 +83,7 @@
     "id": 81,
     "insult": "betomus",
     "pattern": "\\bbetomus",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -75,23 +91,23 @@
     "id": 72,
     "insult": "bitch",
     "pattern": "\\bbit?ch?",
-    "type": "tahqir",
+    "type": "insult",
     "level": 2,
-    "lang": "uz"
+    "lang": "en"
   },
   {
     "id": 3,
     "insult": "blin",
     "pattern": "\\bbl[aeiy]a?[nt]?",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 10,
     "insult": "chichqo",
     "pattern": "\\bch?ich?i?qoq?",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -99,15 +115,15 @@
     "id": 15,
     "insult": "chort",
     "pattern": "\\bch?ort",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 82,
     "insult": "chumo",
     "pattern": "\\bch?u?mo",
-    "type": "tahqir",
+    "type": "insult",
     "level": 1,
     "lang": "uz"
   },
@@ -115,23 +131,31 @@
     "id": 67,
     "insult": "churka",
     "pattern": "\\bch?urka",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 70,
     "insult": "chushpan",
     "pattern": "\\bch?u(sh|w)pan",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
+  },
+  {
+    "id": 90,
+    "insult": "cunt",
+    "pattern": "\\bcunt",
+    "type": "sexual",
+    "level": 2,
+    "lang": "en"
   },
   {
     "id": 14,
     "insult": "dabba",
     "pattern": "\\bda(bb|pp)a",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -139,23 +163,23 @@
     "id": 13,
     "insult": "dalban",
     "pattern": "\\bdalban",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 12,
     "insult": "dalbayop",
     "pattern": "\\bda?lba?(yo|e)[bp]",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 54,
     "insult": "dalton",
     "pattern": "\\bdalton",
-    "type": "tahqir",
+    "type": "insult",
     "level": 1,
     "lang": "uz"
   },
@@ -163,15 +187,15 @@
     "id": 23,
     "insult": "daun",
     "pattern": "\\bdaun",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 16,
     "insult": "dovdir",
     "pattern": "\\bdov?dir",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -179,47 +203,55 @@
     "id": 25,
     "insult": "ekspurush",
     "pattern": "\\b[ei]?kspu?r[iu]?(sh|w)",
-    "type": "kamsituvchi",
+    "type": "slur",
     "level": 2,
     "lang": "uz"
   },
   {
     "id": 59,
-    "insult": "fuck word",
-    "pattern": "\\b(fuck)\\s+(\\w+)",
-    "type": "tahqir",
+    "insult": "fuck",
+    "pattern": "\\bfuck",
+    "type": "slur",
     "level": 3,
-    "lang": "uz"
+    "lang": "en"
   },
   {
     "id": 17,
     "insult": "gandon",
     "pattern": "\\bgandon(cha|ca)?",
-    "type": "jinsiy",
+    "type": "sexual",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 35,
     "insult": "hezalak",
     "pattern": "\\b[hx]ezal[ae][ky]?",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
   {
     "id": 69,
-    "insult": "idinaxuy",
-    "pattern": "\\bi?dinn?a[hx]uy",
-    "type": "tahdid",
+    "insult": "idinnaxuy",
+    "pattern": "\\bi?dinn?a[hx][hx]?u[iy]",
+    "type": "threat",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
+  },
+  {
+    "id": 87,
+    "insult": "idiot",
+    "pattern": "\\bidiot",
+    "type": "profanity",
+    "level": 1,
+    "lang": "en"
   },
   {
     "id": 75,
     "insult": "iflos",
     "pattern": "\\bi[fp]los",
-    "type": "tahqir",
+    "type": "insult",
     "level": 1,
     "lang": "uz"
   },
@@ -227,7 +259,7 @@
     "id": 34,
     "insult": "isqirt",
     "pattern": "\\bis[kq]i?rt",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -235,7 +267,7 @@
     "id": 8,
     "insult": "jalap",
     "pattern": "\\bjala[bp]?",
-    "type": "kamsituvchi",
+    "type": "slur",
     "level": 2,
     "lang": "uz"
   },
@@ -243,7 +275,7 @@
     "id": 56,
     "insult": "jin ursin",
     "pattern": "\\bjin ?urs[iu]n",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -251,7 +283,7 @@
     "id": 30,
     "insult": "jinni",
     "pattern": "\\bjinni",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -259,7 +291,7 @@
     "id": 76,
     "insult": "jungbosh",
     "pattern": "\\bjung? ?bo(sh|w)",
-    "type": "kamsituvchi",
+    "type": "slur",
     "level": 1,
     "lang": "uz"
   },
@@ -267,7 +299,7 @@
     "id": 66,
     "insult": "kalta fahim",
     "pattern": "\\bkalta ?fa[hx]i?m",
-    "type": "kamsituvchi",
+    "type": "slur",
     "level": 1,
     "lang": "uz"
   },
@@ -275,7 +307,7 @@
     "id": 36,
     "insult": "kot",
     "pattern": "\\bkot",
-    "type": "jinsiy",
+    "type": "sexual",
     "level": 1,
     "lang": "uz"
   },
@@ -283,15 +315,7 @@
     "id": 77,
     "insult": "kunta",
     "pattern": "\\bkunta",
-    "type": "haqorat",
-    "level": 1,
-    "lang": "uz"
-  },
-  {
-    "id": 37,
-    "insult": "latta",
-    "pattern": "\\blatta",
-    "type": "kamsituvchi",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -299,15 +323,15 @@
     "id": 26,
     "insult": "lox",
     "pattern": "\\blo[hx]",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 73,
     "insult": "mahmadona",
     "pattern": "\\bma[hx]?mad[ao]na",
-    "type": "tahqir",
+    "type": "insult",
     "level": 1,
     "lang": "uz"
   },
@@ -315,7 +339,7 @@
     "id": 65,
     "insult": "manqurt",
     "pattern": "\\bmanqurt",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -323,7 +347,7 @@
     "id": 74,
     "insult": "maraz",
     "pattern": "\\bmara[sz]",
-    "type": "tahqir",
+    "type": "insult",
     "level": 1,
     "lang": "uz"
   },
@@ -331,23 +355,31 @@
     "id": 47,
     "insult": "momish",
     "pattern": "\\bmomish",
-    "type": "jinsiy",
+    "type": "sexual",
     "level": 3,
     "lang": "uz"
+  },
+  {
+    "id": 88,
+    "insult": "moron",
+    "pattern": "\\bmoron",
+    "type": "profanity",
+    "level": 1,
+    "lang": "en"
   },
   {
     "id": 68,
     "insult": "naxxuy",
     "pattern": "\\bna[hx][hx]?u[iy]",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 48,
     "insult": "osiroq",
     "pattern": "\\bosiroq?",
-    "type": "tahqir",
+    "type": "insult",
     "level": 1,
     "lang": "uz"
   },
@@ -355,47 +387,55 @@
     "id": 21,
     "insult": "ovsar",
     "pattern": "\\bovsar",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
   {
-    "id": 18,
-    "insult": "pidaraz",
-    "pattern": "\\bpi[dt]ara[sz]",
-    "type": "haqorat",
+    "id": 85,
+    "insult": "padla",
+    "pattern": "\\bpadla",
+    "type": "insult",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
+  },
+  {
+    "id": 18,
+    "insult": "pidoras",
+    "pattern": "\\bpi[dt]ara[sz]",
+    "type": "profanity",
+    "level": 2,
+    "lang": "ru"
   },
   {
     "id": 19,
     "insult": "pidr",
     "pattern": "\\bpidi?r",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 57,
     "insult": "pizdets",
     "pattern": "\\bp[ei]?zde?t?s",
-    "type": "jinsiy",
+    "type": "sexual",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 78,
     "insult": "pizdyuk",
     "pattern": "\\bpi?[sz]dy?uk",
-    "type": "jinsiy",
+    "type": "sexual",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 49,
     "insult": "popish",
     "pattern": "\\bpopish",
-    "type": "jinsiy",
+    "type": "sexual",
     "level": 2,
     "lang": "uz"
   },
@@ -403,7 +443,7 @@
     "id": 31,
     "insult": "qanjiq",
     "pattern": "\\b[kq]an(ch|j)i[kq]?",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 2,
     "lang": "uz"
   },
@@ -411,7 +451,7 @@
     "id": 7,
     "insult": "qotoq",
     "pattern": "\\bq[ou]t[ao]q?",
-    "type": "jinsiy",
+    "type": "sexual",
     "level": 2,
     "lang": "uz"
   },
@@ -419,7 +459,7 @@
     "id": 50,
     "insult": "shallava",
     "pattern": "\\bshallava",
-    "type": "tahqir",
+    "type": "insult",
     "level": 2,
     "lang": "uz"
   },
@@ -427,7 +467,7 @@
     "id": 11,
     "insult": "siygoq",
     "pattern": "\\bsiyg[ao][qy]?",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -435,15 +475,7 @@
     "id": 79,
     "insult": "ske",
     "pattern": "\\bsi?k[ei]y?",
-    "type": "tahdid",
-    "level": 2,
-    "lang": "uz"
-  },
-  {
-    "id": 51,
-    "insult": "soska",
-    "pattern": "\\bsoska",
-    "type": "haqorat",
+    "type": "threat",
     "level": 2,
     "lang": "uz"
   },
@@ -451,15 +483,23 @@
     "id": 1,
     "insult": "suka",
     "pattern": "\\bsuc?h?ka",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
+  },
+  {
+    "id": 86,
+    "insult": "svoloch",
+    "pattern": "\\bsvoloch?",
+    "type": "slur",
+    "level": 2,
+    "lang": "ru"
   },
   {
     "id": 28,
     "insult": "tashoq",
     "pattern": "\\btash[ao][gq]?",
-    "type": "jinsiy",
+    "type": "sexual",
     "level": 1,
     "lang": "uz"
   },
@@ -467,7 +507,7 @@
     "id": 20,
     "insult": "tentak",
     "pattern": "\\btenta[ky]",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -475,7 +515,7 @@
     "id": 40,
     "insult": "tonka",
     "pattern": "\\btonka",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -483,7 +523,7 @@
     "id": 29,
     "insult": "totaq",
     "pattern": "\\btot[ao][gq]?",
-    "type": "jinsiy",
+    "type": "sexual",
     "level": 1,
     "lang": "uz"
   },
@@ -491,15 +531,23 @@
     "id": 41,
     "insult": "tvar",
     "pattern": "\\btvar",
-    "type": "kamsituvchi",
+    "type": "slur",
     "level": 1,
-    "lang": "uz"
+    "lang": "ru"
+  },
+  {
+    "id": 91,
+    "insult": "twat",
+    "pattern": "\\btwat",
+    "type": "sexual",
+    "level": 2,
+    "lang": "en"
   },
   {
     "id": 52,
     "insult": "word ami",
     "pattern": "\\b(\\w+)\\s+(ami)",
-    "type": "jinsiy",
+    "type": "sexual",
     "level": 3,
     "lang": "uz"
   },
@@ -507,15 +555,15 @@
     "id": 60,
     "insult": "word fucker",
     "pattern": "\\b(\\w+)\\s+(fucker)",
-    "type": "tahqir",
+    "type": "insult",
     "level": 3,
-    "lang": "uz"
+    "lang": "en"
   },
   {
     "id": 62,
     "insult": "word qotogim",
     "pattern": "\\b(\\w+)\\s+(q[ou]to[gq]?i?m?)",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 3,
     "lang": "uz"
   },
@@ -523,7 +571,7 @@
     "id": 64,
     "insult": "word siksin",
     "pattern": "\\b(\\w+)\\s+(si?ksi?n)",
-    "type": "tahqir",
+    "type": "insult",
     "level": 3,
     "lang": "uz"
   },
@@ -531,7 +579,7 @@
     "id": 63,
     "insult": "word ske",
     "pattern": "\\b(\\w+)\\s+(si?k[ei]y?)",
-    "type": "kamsituvchi",
+    "type": "slur",
     "level": 3,
     "lang": "uz"
   },
@@ -539,7 +587,7 @@
     "id": 61,
     "insult": "word tashogi",
     "pattern": "\\b(\\w+)\\s+(tasho[gq]?i?)",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 3,
     "lang": "uz"
   },
@@ -547,15 +595,15 @@
     "id": 80,
     "insult": "wtf",
     "pattern": "\\bwtf",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 2,
-    "lang": "uz"
+    "lang": "en"
   },
   {
     "id": 24,
     "insult": "xaromi",
     "pattern": "\\b[hx]aromi",
-    "type": "kamsituvchi",
+    "type": "slur",
     "level": 2,
     "lang": "uz"
   },
@@ -563,7 +611,7 @@
     "id": 55,
     "insult": "xaromzoda",
     "pattern": "\\b[hx]aromzoda",
-    "type": "kamsituvchi",
+    "type": "slur",
     "level": 2,
     "lang": "uz"
   },
@@ -571,23 +619,23 @@
     "id": 46,
     "insult": "xunasa",
     "pattern": "\\b[hx]unasa",
-    "type": "kamsituvchi",
+    "type": "slur",
     "level": 2,
     "lang": "uz"
   },
   {
     "id": 83,
-    "insult": "xuyna",
-    "pattern": "\\b[hx]uy(na)?",
-    "type": "jinsiy",
+    "insult": "xuy",
+    "pattern": "\\b[hx]uy",
+    "type": "sexual",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 42,
     "insult": "yalaqi",
     "pattern": "\\byala[kq]i",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -595,7 +643,7 @@
     "id": 33,
     "insult": "yaramas",
     "pattern": "\\byaramas",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
     "lang": "uz"
   },
@@ -603,32 +651,32 @@
     "id": 45,
     "insult": "yeblan",
     "pattern": "\\b[ey]?eblan",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 32,
     "insult": "yiban",
     "pattern": "\\by[ei]?ban?",
-    "type": "haqorat",
+    "type": "sexual",
     "level": 2,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 71,
     "insult": "yobir",
     "pattern": "\\byobi?r",
-    "type": "haqorat",
+    "type": "profanity",
     "level": 1,
-    "lang": "uz"
+    "lang": "ru"
   },
   {
     "id": 58,
     "insult": "zaybal",
     "pattern": "\\bza[ey]bal",
-    "type": "bezovta_qilish",
+    "type": "harassment",
     "level": 1,
-    "lang": "uz"
+    "lang": "ru"
   }
 ]

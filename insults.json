@@ -34,7 +34,7 @@
   {
     "id": 9,
     "insult": "anqov",
-    "pattern": "\\banqov",
+    "pattern": "\\banqov\\b",
     "type": "profanity",
     "level": 1,
     "lang": "uz"
@@ -72,14 +72,6 @@
     "lang": "en"
   },
   {
-    "id": 44,
-    "insult": "besonaqay",
-    "pattern": "\\bbesona[kq]ay",
-    "type": "profanity",
-    "level": 1,
-    "lang": "uz"
-  },
-  {
     "id": 81,
     "insult": "betomus",
     "pattern": "\\bbetomus",
@@ -90,7 +82,7 @@
   {
     "id": 72,
     "insult": "bitch",
-    "pattern": "\\bbit?ch?",
+    "pattern": "\\bbit?ch?\\b",
     "type": "insult",
     "level": 2,
     "lang": "en"
@@ -322,7 +314,7 @@
   {
     "id": 26,
     "insult": "lox",
-    "pattern": "\\blo[hx]",
+    "pattern": "\\blo[hx]\\b",
     "type": "profanity",
     "level": 1,
     "lang": "ru"
@@ -498,7 +490,7 @@
   {
     "id": 28,
     "insult": "tashoq",
-    "pattern": "\\btash[ao][gq]?",
+    "pattern": "\\btash[ao][gq]?\\b",
     "type": "sexual",
     "level": 1,
     "lang": "uz"
@@ -514,7 +506,7 @@
   {
     "id": 40,
     "insult": "tonka",
-    "pattern": "\\btonka",
+    "pattern": "\\btonka\\b",
     "type": "profanity",
     "level": 1,
     "lang": "uz"
@@ -635,14 +627,6 @@
     "id": 42,
     "insult": "yalaqi",
     "pattern": "\\byala[kq]i",
-    "type": "profanity",
-    "level": 1,
-    "lang": "uz"
-  },
-  {
-    "id": 33,
-    "insult": "yaramas",
-    "pattern": "\\byaramas",
     "type": "profanity",
     "level": 1,
     "lang": "uz"
